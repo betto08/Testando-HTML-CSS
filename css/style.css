@@ -1,7 +1,9 @@
 
 body{
-    background-color: black; color:white}
-
+    background-color: black; color:white;
+    background: url(../img/fundo-site.jpg) no-repeat;
+}
+    
 .titulo{text-shadow: red 2px 2px 2px;font-family: 'Courier New', Courier, monospace; text-align: center;}
 
 .p_central{text-align: justify;text-shadow: blue 2px 2px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: italic; padding: 120px 80px 15px}
